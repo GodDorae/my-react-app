@@ -1,6 +1,6 @@
-# Assignment
+# Lotte Giants
 
-## Theme: Lotte Giants
+## About the project
 
 ### Homepage
 * Flexible menuber on the left, top side.
@@ -21,3 +21,7 @@
 * Before the information, the player who is exactly matched with the information is shown interactively.
 
 ### Media query is adapted. (PC view is recommended :) )
+
+## Built with  
+
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  
